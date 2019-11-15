@@ -1,4 +1,4 @@
-# MAS6600-Dissertation
+# MSc Mathematics Dissertation
 Carl Holwell
 
 The code included in this repository represents my final submission for my MSc Mathematics dissertation at the University of Sheffield.
